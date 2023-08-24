@@ -2,5 +2,5 @@
  
 # Walker Sigler
 
-# JP Ognibene
+# Replace with your name
 Thank you!
